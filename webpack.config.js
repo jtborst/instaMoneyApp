@@ -31,6 +31,7 @@ module.exports = {
         include: path.resolve('node_modules/angular2'),
         loader: 'strip-sourcemap'
       }
+
     ],
     noParse: [
       /es6-shim/,
